@@ -1,0 +1,27 @@
+{
+  "parent": "index.json",
+  "context": {
+    "market": "hn"
+  },
+  "sections": {
+    "image_banner": {
+      "blocks": {
+        "heading": {
+          "settings": {
+            "heading": "Imagen traducida"
+          }
+        },
+        "text": {
+          "settings": {
+            "text": "Texto traducido"
+          }
+        },
+        "button": {
+          "settings": {
+            "button_label_1": "Comprar todo traducido"
+          }
+        }
+      }
+    }
+  }
+}
